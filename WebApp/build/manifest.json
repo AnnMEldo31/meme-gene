@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Meme Gene",
+  "author": "SunnyInsiders",
+  "version": "1.0.1",
+  "description": "Meme Generator",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}

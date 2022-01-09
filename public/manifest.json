@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Meme Tab :)",
+  "author": "SunnyInsiders",
+  "version": "1.0.1",
+  "description": "Ma memez :D",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
